@@ -77,7 +77,7 @@ function playToFive() {
         
         
         
-        console.log("Player chose: " + playerMove + " and Computer chose: "         + computerMove);
+        console.log("Player chose: " + playerMove + " and Computer chose: "   + computerMove);
         
         console.log("The current score is: " + playerWins + 
         " to " + computerWins);
